@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if(textView.getText().equals("Hello git")){
-                    textView.setText("HELLO GIT");
+                    textView.setText("HELLO GIT,change test");
                     textView.setTextColor(145524);
                 }else
                     textView.setTextColor(000000);
