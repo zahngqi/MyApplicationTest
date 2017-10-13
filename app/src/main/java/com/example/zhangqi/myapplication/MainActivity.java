@@ -26,4 +26,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+public int sumTest(int a,int b){
+	int a = 12;
+	int b = 22;
+	int sum = a+b;
+return sum;	
+	}
 }
